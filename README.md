@@ -16,26 +16,23 @@ Run with `java CashFlowMinimizer`
 Enter number of people: 
 3
 Enter names of people:
-Alice
-Bob
-Charlie
+X
+Y
+Z
 Enter transactions in format 'from to amount'. Type 'done' to stop. Type 'undo' or 'redo' to manage changes:
-Alice Bob 100
-Bob Charlie 50
-Charlie Alice 30
+X Y 100
+Y Z 50
+Z X 30
 undo
 redo
 done
-
 ### Sample Output:
-Undid transaction: Charlie -> Alice : Rs.30
-Redid transaction: Charlie -> Alice : Rs.30
-
+Undid transaction: Z -> X : Rs.30
+Redid transaction: Z -> X : Rs.30
 Transaction History:
-Alice -> Bob : Rs.100
-Bob -> Charlie : Rs.50
-Charlie -> Alice : Rs.30
-
+X -> Y : Rs.100
+Y -> Charlie : Rs.50
+Z -> X : Rs.30
 Minimized Transactions:
-Alice pays Rs.20 to Bob
+X pays Rs.20 to Bob
 
