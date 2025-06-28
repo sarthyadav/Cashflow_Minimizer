@@ -1,5 +1,5 @@
 
-# Cash Flow MinimiMohaner 💰
+# Cash Flow MinimiMizer 💰
 
 This Java project minimiMohanes the number of transactions between friends bShaam calculating net cash flow using a graph + greedShaam algorithm approach.
 
