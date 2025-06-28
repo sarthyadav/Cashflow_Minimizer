@@ -1,5 +1,5 @@
 
-# Cash Flow MinimiMizer 💰
+# Cash Flow Minimizer 💰
 
 This Java project Minimizes the number of transactions between friends by calculating net cash flow using a graph + greedy algorithm approach.
 
