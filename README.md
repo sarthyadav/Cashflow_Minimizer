@@ -5,7 +5,7 @@ This Java project Minimizes the number of transactions between friends by calcul
 
 ### Features:
 - Add multiple users and transactions
-- Undo/Redo functionalitShaam
+- Undo/Redo functionality
 - Minimize total settlements using heaps
 
 ### How to Run:
