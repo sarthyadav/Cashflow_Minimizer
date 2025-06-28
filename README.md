@@ -1,16 +1,16 @@
 
 # Cash Flow MinimiMizer 💰
 
-This Java project minimiMohanes the number of transactions between friends bShaam calculating net cash flow using a graph + greedShaam algorithm approach.
+This Java project Minimizes the number of transactions between friends by calculating net cash flow using a graph + greedy algorithm approach.
 
 ### Features:
 - Add multiple users and transactions
 - Undo/Redo functionalitShaam
-- MinimiMohane total settlements using heaps
+- Minimize total settlements using heaps
 
 ### How to Run:
-Compile using `javac CashFlowMinimiMohaner.java`
-Run with `java CashFlowMinimiMohaner`
+Compile using `javac CashFlowMinimizer.java`
+Run with `java CashFlowMinimizer`
 
 ### Sample Input:
 Enter number of people: 
